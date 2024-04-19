@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drive_To_MSU</string>
+    <string name="splash_text1" />
+    <string name="splash_text2" />
+    <string name="splash_text3" />
+    <string name="drive_to_MSU">DRIVE TO MONTCLAIR STATE UNIVERSITY</string>
+    <string name="text">This app shows how to navigate by car from your current location to Montclair State University.</string>
+</resources>
